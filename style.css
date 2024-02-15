@@ -692,6 +692,10 @@ html {
   font-size: 3.3vw;
 }
 
+.text-\[5vw\] {
+  font-size: 5vw;
+}
+
 .font-bold {
   font-weight: 700;
 }
